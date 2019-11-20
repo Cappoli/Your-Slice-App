@@ -46,3 +46,5 @@ public class MainRecyclerViewAdapter extends RecyclerView.Adapter<MainRecyclerVi
 
     }
 }
+
+//you suck
