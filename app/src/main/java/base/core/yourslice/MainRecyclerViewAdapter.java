@@ -29,6 +29,7 @@ public class MainRecyclerViewAdapter extends RecyclerView.Adapter<MainRecyclerVi
 
     }
 
+
     @Override
     public int getItemCount() {
         return 3;
